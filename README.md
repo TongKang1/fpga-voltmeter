@@ -1,5 +1,5 @@
 # fpga-voltmeter
-这是一个基于小脚丫FPGA平台（Lattice Xmo2-4000hc）的数字电压表项目。
+这是一个基于[小脚丫FPGA平台](https://www.eetree.cn/doc/detail/40)（Lattice Xmo2-4000hc）的数字电压表项目。
 
 显示屏：128*32 OLED
 
